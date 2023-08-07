@@ -1,6 +1,6 @@
 # ATM
 
-<img src="Screenshot.jpg" alt="ATM">
+![Screenshot](https://github.com/c-mariee/ATM/assets/130301864/7ee8c3db-23bd-47b0-a4ba-33d4cf9cb211)
 
 This project was to create a simple ATM that would allow for functionality of deposit and withdrawal and to continue to maintain a balance. The starter code provided for the format for this and functionality for this tool and I added the following: 
 * added the image to the background
